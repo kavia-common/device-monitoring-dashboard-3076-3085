@@ -1,0 +1,4 @@
+{
+    "command": "npm install --legacy-peer-deps",
+    "working_directory": "/home/kavia/workspace/code-generation/device-monitoring-dashboard-3076-3085/health_dashboard_frontend"
+}
